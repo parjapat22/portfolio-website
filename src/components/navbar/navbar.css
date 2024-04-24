@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #bfe;
+  padding: 1rem 0 !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top-nav {
+  display: flex;
+}
+
+.nav-logo {
+  width: 5.5rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.top-menu {
+  width: 50%;
+  display: flex;
+}
+
+.menu-bar {
+  display: flex;
+  gap: 5rem;
+  list-style: none;
+}
